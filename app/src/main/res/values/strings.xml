@@ -8,6 +8,7 @@
     <string name="main_all_my_accounts">My Accounts</string>
     <string name="main_all_my_cards">My Cards</string>
     <string name="main_all_remittance">Remittance</string>
+    <string name="main_all_send">Send</string>
     <string name="main_all_dutch_pay">Dutch Pay</string>
     <string name="main_all_auto_debit">Auto Debit</string>
 

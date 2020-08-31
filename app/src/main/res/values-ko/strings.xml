@@ -9,4 +9,5 @@
     <string name="main_all_remittance">송금</string>
     <string name="main_all_dutch_pay">더치페이</string>
     <string name="main_all_auto_debit">자동이체</string>
+    <string name="main_all_send">송금</string>
 </resources>
