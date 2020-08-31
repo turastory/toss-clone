@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TossClone</string>
+
+    <string name="main_all_title">All</string>
+    <string name="main_all_help_center">Help Center</string>
+    <string name="main_all_settings">Settings</string>
+    <string name="main_all_lookup">Lookup</string>
+    <string name="main_all_my_accounts">My Accounts</string>
+    <string name="main_all_my_cards">My Cards</string>
+    <string name="main_all_remittance">Remittance</string>
+    <string name="main_all_dutch_pay">Dutch Pay</string>
+    <string name="main_all_auto_debit">Auto Debit</string>
+
+</resources>

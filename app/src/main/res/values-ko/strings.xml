@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TossClone</string>
+    <string name="main_all_title">전체</string>
+    <string name="main_all_help_center">고객센터</string>
+    <string name="main_all_settings">설정</string>
+    <string name="main_all_my_accounts">계좌 조회</string>
+    <string name="main_all_my_cards">카드 조회</string>
+    <string name="main_all_lookup">조회</string>
+    <string name="main_all_remittance">송금</string>
+    <string name="main_all_dutch_pay">더치페이</string>
+    <string name="main_all_auto_debit">자동이체</string>
+</resources>
